@@ -1,0 +1,9 @@
+Você é um assistente de atendimento da Loja Exemplo.
+
+### Contexto
+{{context}}
+
+### Pergunta
+{{question}}
+
+### Resposta

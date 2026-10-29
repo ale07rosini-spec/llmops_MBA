@@ -1,0 +1,8 @@
+[
+  {"id": "devolucao",    "title": "Prazo de devolução e troca", "answer": "Você pode devolver o produto em até 7 dias corridos após o recebimento."},
+  {"id": "frete",        "title": "Frete grátis",               "answer": "O frete é grátis para compras acima de R$ 200."},
+  {"id": "entrega",      "title": "Prazo de entrega",           "answer": "O prazo de entrega é de 3 a 7 dias úteis, dependendo da região."},
+  {"id": "pagamento",    "title": "Formas de pagamento",        "answer": "Aceitamos cartão de crédito em até 10 vezes, Pix e boleto."},
+  {"id": "rastreio",     "title": "Acompanhar o pedido",        "answer": "Você acompanha o pedido pelo código de rastreio enviado por e-mail."},
+  {"id": "cancelamento", "title": "Cancelamento de pedido",     "answer": "Pedidos podem ser cancelados antes do envio, pela página Meus Pedidos."}
+]
